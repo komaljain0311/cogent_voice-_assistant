@@ -1,0 +1,71 @@
+[2025-07-10 00:07:31] [ERROR] chromadb.telemetry.product.posthog: Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+[2025-07-10 00:07:31] [ERROR] chromadb.telemetry.product.posthog: Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+[2025-07-10 00:07:31] [ERROR] chromadb.telemetry.product.posthog: Failed to send telemetry event CollectionGetEvent: capture() takes 1 positional argument but 3 were given
+[2025-07-10 00:07:31] [INFO] app: Vectorstore contains 72 documents.
+[2025-07-10 00:07:31] [INFO] app: Budger AI Assistant started with OpenAI RAG optimization
+[2025-07-10 00:07:31] [INFO] app: Active model: gpt-3.5-turbo
+[2025-07-10 00:07:31] [INFO] app: Real-time streaming enabled
+[2025-07-10 00:07:31] [INFO] app: Vectorstore contains 72 documents.
+[2025-07-10 00:08:25] [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2025-07-10 00:08:25] [ERROR] chromadb.telemetry.product.posthog: Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+[2025-07-10 00:08:26] [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-07-10 00:19:31] [INFO] app: WebSocket disconnected for session session_qjjyhiq8a_1752086291453
+[2025-07-10 00:36:24] [ERROR] chromadb.telemetry.product.posthog: Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+[2025-07-10 00:36:24] [ERROR] chromadb.telemetry.product.posthog: Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+[2025-07-10 00:36:24] [ERROR] chromadb.telemetry.product.posthog: Failed to send telemetry event CollectionGetEvent: capture() takes 1 positional argument but 3 were given
+[2025-07-10 00:36:24] [INFO] app: Vectorstore contains 72 documents.
+[2025-07-10 00:36:24] [INFO] app: Budger AI Assistant started with OpenAI RAG optimization
+[2025-07-10 00:36:24] [INFO] app: Active model: gpt-3.5-turbo
+[2025-07-10 00:36:24] [INFO] app: Real-time streaming enabled
+[2025-07-10 00:36:24] [INFO] app: Vectorstore contains 72 documents.
+[2025-07-10 00:37:04] [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2025-07-10 00:37:04] [ERROR] chromadb.telemetry.product.posthog: Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+[2025-07-10 00:37:05] [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-07-10 00:38:07] [INFO] app: WebSocket disconnected for session session_kn2le21nu_1752088008866
+[2025-07-10 00:39:22] [ERROR] chromadb.telemetry.product.posthog: Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+[2025-07-10 00:39:22] [ERROR] chromadb.telemetry.product.posthog: Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+[2025-07-10 00:39:22] [ERROR] chromadb.telemetry.product.posthog: Failed to send telemetry event CollectionGetEvent: capture() takes 1 positional argument but 3 were given
+[2025-07-10 00:39:22] [INFO] app: Vectorstore contains 72 documents.
+[2025-07-10 00:39:22] [INFO] app: Budger AI Assistant started with OpenAI RAG optimization
+[2025-07-10 00:39:22] [INFO] app: Active model: gpt-3.5-turbo
+[2025-07-10 00:39:22] [INFO] app: Real-time streaming enabled
+[2025-07-10 00:39:22] [INFO] app: Vectorstore contains 72 documents.
+[2025-07-10 00:40:43] [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2025-07-10 00:40:43] [ERROR] chromadb.telemetry.product.posthog: Failed to send telemetry event CollectionQueryEvent: capture() takes 1 positional argument but 3 were given
+[2025-07-10 00:40:44] [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-07-10 00:40:57] [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2025-07-10 00:40:58] [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-07-10 00:44:12] [INFO] app: WebSocket disconnected for session session_f6tlfw2g2_1752088238503
+[2025-07-10 00:44:18] [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2025-07-10 00:44:18] [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-07-10 00:44:32] [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2025-07-10 00:44:33] [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-07-10 00:45:02] [INFO] app: WebSocket disconnected for session session_8j5e9k26f_1752088452675
+[2025-07-10 00:45:13] [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2025-07-10 00:45:14] [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-07-10 00:45:50] [INFO] app: WebSocket disconnected for session session_ci0i3qgka_1752088503212
+[2025-07-10 00:45:50] [INFO] app: WebSocket disconnected for session session_kn2le21nu_1752088008866
+[2025-07-10 10:37:49] [INFO] app: WebSocket disconnected for session session_kn2le21nu_1752088008866
+[2025-07-10 10:37:49] [INFO] app: WebSocket disconnected for session session_ci0i3qgka_1752088503212
+[2025-07-10 10:38:09] [ERROR] chromadb.telemetry.product.posthog: Failed to send telemetry event ClientStartEvent: capture() takes 1 positional argument but 3 were given
+[2025-07-10 10:38:09] [ERROR] chromadb.telemetry.product.posthog: Failed to send telemetry event ClientCreateCollectionEvent: capture() takes 1 positional argument but 3 were given
+[2025-07-10 10:38:09] [ERROR] chromadb.telemetry.product.posthog: Failed to send telemetry event CollectionGetEvent: capture() takes 1 positional argument but 3 were given
+[2025-07-10 10:38:09] [INFO] app: Vectorstore contains 72 documents.
+[2025-07-10 10:38:09] [INFO] app: Budger AI Assistant started with OpenAI RAG optimization
+[2025-07-10 10:38:09] [INFO] app: Active model: gpt-3.5-turbo
+[2025-07-10 10:38:09] [INFO] app: Real-time streaming enabled
+[2025-07-10 10:38:09] [INFO] app: Vectorstore contains 72 documents.
+[2025-07-10 10:41:44] [INFO] app: WebSocket disconnected for session session_kn2le21nu_1752088008866
+[2025-07-10 10:41:44] [INFO] app: WebSocket disconnected for session session_ci0i3qgka_1752088503212
+[2025-07-10 10:43:22] [INFO] app: Vectorstore contains 72 documents.
+[2025-07-10 10:43:22] [INFO] app: Budger AI Assistant started with OpenAI RAG optimization
+[2025-07-10 10:43:22] [INFO] app: Active model: gpt-3.5-turbo
+[2025-07-10 10:43:22] [INFO] app: Real-time streaming enabled
+[2025-07-10 10:43:22] [INFO] app: Vectorstore contains 72 documents.
+[2025-07-10 10:44:02] [INFO] app: WebSocket disconnected for session session_ci0i3qgka_1752088503212
+[2025-07-10 10:44:28] [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2025-07-10 10:44:28] [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-07-10 10:44:45] [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2025-07-10 10:44:45] [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-07-10 10:44:55] [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+[2025-07-10 10:44:57] [INFO] httpx: HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
